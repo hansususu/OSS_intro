@@ -1,17 +1,14 @@
-# Our team introduction
-## Team name
-Our team name is 'Petit Dejeuner'
+# 팀 소개
+## 팀 이름
+Petit Dejeuner
 
-'Petit Dejeuner' means breakfast in French.
+'Petit Dejeuner'는 프랑스어로 아침식사라는 뜻입니다.
 
-## Team member
-The names of our team members are KimYejin, JeongYeonju, JeonMinji, HanSubin.
-We are student of Hanyang University Erica campus.
-We are studying computer science.
+## 팀 멤버
+김예진, 전민지, 정연주, 한수빈
 
-# Self - introduction
-## My name
-Hansubin
+저희 팀은 모두 한양대학교 에리카 캠퍼스 소프트웨어학부 19학번 학생입니다. 
 
-## Age
-21 
+# 자기 소개
+제 이름은 한수빈입니다. 저는 21살이고, 한양대학교 에리카 캠퍼스 소프트웨어학부 소프트웨어 전공입니다. 
+
